@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>CESS GOLD</title>
+    <title>CESS GOLD ID</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -168,7 +168,7 @@
             <nav class="navbar navbar-expand-lg navbar-light border-bottom border-2 border-white">
                 <a href="" class="navbar-brand d-flex align-items-center gap-2">
                     <img src="{{ asset('assets/img/cess.png') }}" alt="CESS Gold Logo" class="brand-logo" width="50">
-                    <h2 class="ms-1 fw-bold">CESS GOLD</h2>
+                    <h2 class="ms-1 fw-bold">CESSGOLD.ID</h2>
                 </a>
                 <button type="button" class="navbar-toggler ms-auto me-0" data-bs-toggle="collapse"
                     data-bs-target="#navbarCollapse">
@@ -755,8 +755,8 @@
             <div class="row g-4 mb-5">
                 <div class="col-lg-4 col-md-6">
                     <div class="footer-brand mb-4">
-                        <img src="img/cess.png" alt="CESS GOLD" class="footer-logo mb-2" width="50">
-                        <h3 class="text-white h4">CESS GOLD</h3>
+                        <img src="img/cess.png" alt="CESSGOLD.ID" class="footer-logo mb-2" width="50">
+                        <h3 class="text-white h4">CESSGOLD.ID</h3>
                     </div>
                     <p class="footer-desc">Penyedia logam mulia terpercaya & berkualitas.</p>
                     <div class="social-links d-flex gap-3">
@@ -777,8 +777,8 @@
                 <div class="col-lg-3 col-md-6">
                     <h5 class="footer-title">Kontak Kami</h5>
                     <ul class="list-unstyled footer-list">
-                        <li><i class="bi bi-geo-alt-fill me-2 text-gold"></i> Jl. Suryo No.49, Lt.3 Kec. Kebayoran Baru,
-                            Jakarta Selatan 12180</li>
+                        <li><i class="bi bi-geo-alt-fill me-2 text-gold"></i> Jl. Riau No.25, Lt.5, Gondangdia, Kec.
+                            Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350</li>
                         <li><i class="bi bi-telephone-fill me-2 text-gold"></i> 082298413004</li>
                     </ul>
                 </div>
@@ -804,7 +804,7 @@
             </div>
 
             <div class="footer-bottom text-center">
-                <p class="mb-0">© 2026 CESS GOLD — All Rights Reserved</p>
+                <p class="mb-0">© 2026 CESSGOLD.ID — All Rights Reserved</p>
             </div>
         </div>
     </footer>
