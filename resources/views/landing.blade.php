@@ -755,7 +755,8 @@
             <div class="row g-4 mb-5">
                 <div class="col-lg-4 col-md-6">
                     <div class="footer-brand mb-4">
-                        <img src="img/cess.png" alt="CESSGOLD.ID" class="footer-logo mb-2" width="50">
+                        <img src="{{ asset('assets/img/cess.png') }}" alt="CESSGOLD.ID" class="footer-logo mb-2"
+                            width="50">
                         <h3 class="text-white h4">CESSGOLD.ID</h3>
                     </div>
                     <p class="footer-desc">Penyedia logam mulia terpercaya & berkualitas.</p>
