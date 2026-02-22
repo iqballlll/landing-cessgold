@@ -284,7 +284,7 @@
 
                         <div class="price-note mb-4">
                             <i class="bi bi-info-circle me-2"></i>
-                            Harga berlaku untuk LM Antam produksi tahun 2025.
+                            Harga berlaku untuk LM Antam produksi tahun 2026.
                         </div>
 
                         <a href="#" class="btn-check-detail">
