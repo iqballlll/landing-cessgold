@@ -393,11 +393,15 @@
                     Pantau harga emas terkini dengan update real-time mengikuti pasar global
                 </p>
 
-                <div class="update-time mb-4">
+                <div class="update-time mb-2">
                     <i class="bi bi-clock"></i>
                     Terakhir diperbarui: {{ \Carbon\Carbon::parse($golds->updated_at)->translatedFormat('d F Y H:i') }}
                     WIB
                 </div>
+                <div class="update-time mb-4">
+                    Harga berlaku untuk LM Antam produksi tahun 2026.
+                </div>
+
 
                 <div class="price-table-card mx-auto">
                     <table class="table price-table mb-0">
